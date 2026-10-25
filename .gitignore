@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+.kotlin/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android build artifacts (the two shipped APKs in /apks are tracked on purpose)
+captures/
+.cxx/
+*.hprof
+wrapper/

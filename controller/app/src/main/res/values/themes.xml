@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BleTestClient" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#3B7DDD</item>
+        <item name="colorPrimaryVariant">#2A5FB0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">#0F1115</item>
+        <item name="android:statusBarColor">#0F1115</item>
+        <item name="android:navigationBarColor">#0F1115</item>
+    </style>
+</resources>
