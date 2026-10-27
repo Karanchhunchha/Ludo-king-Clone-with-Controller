@@ -1,5 +1,5 @@
 # 🎲 Ludo King by Karan — with BLE Controller
-
+              (JUST FOR FUN)
 Play Ludo on one phone and **control the dice from another phone over Bluetooth LE** — no server, no root, no extra hardware. Tap a dice number on the controller, tap the dice in the game, and it rolls exactly that number.
 
 **Created and developed by [Karan Chhunchha](https://github.com/Karanchhunchha)** — game modifications, BLE integration, controller app, rules and UX.
